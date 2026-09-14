@@ -1,6 +1,6 @@
 # SmartGrid PSE RCE Price Chain for Home Assistant
 
-<img src="https://github.com/grzegorz007/ha-smartgrid-pse-rce/blob/main/custom_components/smartgrid_pse_rce/brand/logo.png" alt="SmartGrid PSE RCE logo" width="320">
+<img src="https://github.com/grzegorz007/ha-smartgrid-pse-rce/blob/main/custom_components/pse_rce/brand/logo.png" alt="SmartGrid PSE RCE logo" width="320">
 
 [![Open your Home Assistant instance and open the HACS repository dialog with a specific repository pre-filled.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=grzegorz007&repository=ha-smartgrid-pse-rce&category=integration)
 
