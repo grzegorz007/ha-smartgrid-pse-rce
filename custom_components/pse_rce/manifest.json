@@ -1,0 +1,16 @@
+{
+  "domain": "pse_rce",
+  "name": "SmartGrid PSE RCE Price Chain",
+  "codeowners": ["@grzegorz007"],
+  "config_flow": true,
+  "documentation": "https://github.com/grzegorz007/ha-smartgrid-pse-rce",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "brand": {
+    "icon": "brand/icon.png",
+    "logo": "brand/logo.png"
+  },
+  "issue_tracker": "https://github.com/grzegorz007/ha-smartgrid-pse-rce/issues",
+  "requirements": ["aiohttp"],
+  "version": "1.0.1"
+}
